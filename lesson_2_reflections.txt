@@ -5,3 +5,7 @@ Creates a .git file and adds it to the git system. IF you don't do it then the v
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area allows you to to add files to the area allowing you to select which files will be included together in a single commit. Working area is after the staging area where you essentially keep adding commits with changes and track the changes made
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area can be used prior to commiting the changes that have been made in the working area by acting as an intermediary between the commits and the working directory. A staging area basically gives you an oppurtunity to further evalute the changes that you have made thus far before forming a commit
