@@ -9,3 +9,8 @@ The staging area allows you to to add files to the area allowing you to select w
 How can you use the staging area to make sure you have one commit per logical change?
 
 The staging area can be used prior to commiting the changes that have been made in the working area by acting as an intermediary between the commits and the working directory. A staging area basically gives you an oppurtunity to further evalute the changes that you have made thus far before forming a commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches can be used to branch off into different types/versions of the app allowing you to make changes to sub versions of the app without affecting the commit history of the main version thus keeping things more neat and organized.
+
