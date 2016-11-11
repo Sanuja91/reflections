@@ -14,3 +14,14 @@ What are some situations when branches would be helpful in keeping your history 
 
 Branches can be used to branch off into different types/versions of the app allowing you to make changes to sub versions of the app without affecting the commit history of the main version thus keeping things more neat and organized.
 
+How do the diagrams help you visualize the branch structure?
+
+They help you see where the commits started to branch off providing you with an idea of the difference between the branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches allow you the benefit to introduce different changes/functions to the code in serperate branches without having one group change the lines of code from underneath the other. Then once both groups have decided to add their features to the master. Git Merge allows you to do it.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git merging will result in the merge completing faster however Git cannot come with the solution for conflicts. Manual merging in such locations is required to figure out the most effective way of navigating the code.
